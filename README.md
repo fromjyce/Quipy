@@ -83,7 +83,7 @@ QUIPY offers an intuitive interface that transforms how businesses interact with
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-repo-name/quipy.git
+   git clone https://github.com/fromjyce/Quipy.git quipy
    cd quipy
    ```
 
