@@ -87,24 +87,12 @@ QUIPY offers an intuitive interface that transforms how businesses interact with
    cd quipy
    ```
 
-2. **Install Dependencies**  
-   Ensure that Python and Node.js are installed on your machine.  
+2. **Start the Application**  
    ```bash
-   pip install -r requirements.txt
-   npm install
+   cd src
+
+   python quipy.py
    ```
-
-3. **Start the Application**  
-   ```bash
-   # Start the backend
-   python manage.py runserver
-
-   # Start the frontend
-   npm run dev
-   ```
-
-4. **Access the Application**  
-   Open your browser and navigate to `http://localhost:3000` to start interacting with QUIPY.
 
 ## **Future Enhancements**
 
