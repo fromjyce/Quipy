@@ -100,3 +100,22 @@ QUIPY offers an intuitive interface that transforms how businesses interact with
 - **Mobile Application**: Develop a mobile version of QUIPY for on-the-go data access.
 - **Advanced Data Security**: Implement role-based access control (RBAC) for secure data handling.
 - **Integration with Cloud Databases**: Extend support to popular cloud-based databases like AWS RDS, Google BigQuery, and Azure SQL.
+
+## Running the Project
+
+The programs have been tested on the Visual Studio Code IDE in Windows 11. You are free to choose any IDE that suits your needs.
+
+## Contact
+
+If you have any questions, suggestions, or feedback regarding the portfolio website, please feel free to contact me at `jaya2004kra@gmail.com`. I welcome any input that can help me improve the site.
+
+## License
+
+All the code in this repository is licensed under the GNU GENERAL PUBLIC License. You are free to use and modify it for educational purposes. However, I do not take any responsibility for the accuracy or reliability of the code.
+
+## My Social Profiles:
+
+- [**LINKEDIN - Jayashre**](https://www.linkedin.com/in/jayashrek/)
+- [**LINKEDIN - Adithya A**](https://www.linkedin.com/in/adithya-azhagiri/)
+- [**LINKEDIN - Nitin Karthick**](https://www.linkedin.com/in/nitin-karthick/)
+- [**LINKEDIN - Roahith R**](https://www.linkedin.com/in/roahith-r/)
