@@ -1,4 +1,4 @@
-# **QUIPY – AI-Driven Chatbot for Data Access and Insights**
+# **QUIPY : AI-Driven Chatbot for Data Access and Insights**
 
 QUIPY is an advanced AI-powered chatbot designed to streamline access to customer data stored in internal databases. Leveraging **Large Language Models (LLMs)**, QUIPY enables users to query databases using natural language and obtain contextually relevant, accurate responses. This solution is especially valuable for organizations dealing with vast amounts of data, providing an intuitive interface that eliminates the need for complex queries or technical expertise.
 
